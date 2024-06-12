@@ -7,4 +7,4 @@ The HR can toggle around with the Attrition Data of the Human Resource, Research
 ![Screenshot (582)](https://github.com/farhanRT5/HR-ANALYTICS-DASHBOARD/assets/78254741/11ea96c5-acd1-43c8-bbe4-96d3faeadd96)
 
 
-Have manually made the column of "count of attrition" with the help of attrition column in the data file using power query in power bi.
+Have manually made the column of "AttritionCount" with the help of "Attrition" column in the data file using power query in power bi.
